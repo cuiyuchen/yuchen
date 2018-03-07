@@ -20,3 +20,5 @@ my name is cuizhen
 
 
 hellow word
+
+Creating a new branch is quick AND simple.
