@@ -15,28 +15,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 
-my name is cuizhen
 
-
-
-hellow word
-
-
-jlkasjdfkjaklaaaaaaaaaaaaa
-bbbbbbbbbbbbbbb
-
-
-sdfgkljsdfkglj
-
-
-jlkasjdfkjakl
-
-
-Creating a new branch is quick AND simple.
-
-
-ssssssssssssssssss
-wwwwwwwwwwwwwwwww
-eeeeeeeeeeeeeee
-
-wxf93272f88fc757c6
